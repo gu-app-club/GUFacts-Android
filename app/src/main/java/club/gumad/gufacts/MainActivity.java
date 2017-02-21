@@ -32,7 +32,9 @@ public class MainActivity extends AppCompatActivity {
         //Set the text to loading
         factText.setText(R.string.loading);
         //Retrieve the message
+
         //TOOD: Get message from server
+
         String msg = "";
         //Set the text to be the message
         factText.setText(msg);
